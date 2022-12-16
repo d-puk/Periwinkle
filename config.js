@@ -16,7 +16,7 @@ var config = {
             date: '',
             title: '',
             iframe: '',
-            description: "I learned how to drive in 2018. A year later, I started taking my mother’s Wagon R out more often. I was excited to get around the city by myself. Few had warned me I had picked the wrong city to enjoy driving. I would eventually find out what they meant, but didn’t always agree, because my playlists kept me company<br><br>This is how I remember Bangalore : By the music that attached itself to routes that I repeated; by the spots where my thoughts and memories are now anchored forever; by reminders of the mundane and the changed.<br><br>I don’t know if anyone can relate but this is what I remember.",
+            description: "I learned how to drive in 2018. A year later, I started taking my mother’s Wagon R out more often. I was excited to get around the city by myself. Few had warned me I had picked the wrong city to enjoy driving. I would eventually find out what they meant, but didn’t always agree, because my playlists kept me company.<br><br>This is how I remember Bangalore : By the music that attached itself to routes that I repeated; by the spots where my thoughts and memories are now anchored forever; by reminders of the mundane and the changed.<br><br>I don’t know if anyone can relate but this is what I remember.",
             image: '',
             location: {
                 center: [77.58766, 13.08030],
@@ -210,7 +210,7 @@ var config = {
             date: 'Feb 2020',
             title: '',
             iframe: 'https://open.spotify.com/embed/track/4U45aEWtQhrm8A5mxPaFZ7?utm_source=generator',
-            description: "At 10:30 PM, this stretch between Koramangala and Domlur feels like a blanket. You get to glide comfortably between forested defence land, catching a break from the street lights and break-clutching. The fatigue of trying to be everywhere all the time was beginning to set in. But Billy Joel had the right words to gave me a lift.",
+            description: "At 10:30 PM, this stretch between Koramangala and Domlur feels like a blanket. You get to glide comfortably between forested defence land, catching a break from the street lights and break-clutching. The fatigue of trying to be everywhere all the time was beginning to set in. But Billy Joel had the right words to give me a lift.",
             image: '',
             location: {
                 center: [77.637492, 12.941939],
