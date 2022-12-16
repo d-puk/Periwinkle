@@ -1,13 +1,13 @@
 /* Typography */
 @font-face {
     font-family: 'Sentient' ;
-    src: url('./assets/fonts/Sentient/Sentient-Variable.woff2') format('woff2');
+    src: url('/assets/fonts/Sentient/Sentient-Variable.woff2') format('woff2');
     font-weight: 200 700;
 }
 
 @font-face {
     font-family: 'JetBrains Mono' ;
-    src: url('./assets/fonts/JetBrains Mono/JetBrainsMono-VariableFont_wght.ttf') format('truetype');
+    src: url('/assets/fonts/JetBrains Mono/JetBrainsMono-VariableFont_wght.ttf') format('truetype');
     font-weight: 200 700;
 }
 
