@@ -98,7 +98,7 @@ var config = {
             date: 'Jan 2020',
             title: '',
             iframe: 'https://open.spotify.com/embed/track/02zYabT1FTwMy8byKpd40O?utm_source=generator',
-            description: "Another year, another internship. Bangalore, to me, felt paradoxical. The commute times didn’t make sense. A culture of complaining gets you to believe it’s the roads that hold you back. But depending on when you left, you could get to where you needed to in 20 minutes or 2 hours. I really wished the city was more pedestrian, planned, and well equipped with public transport. But for now, I just hoped to meet my friends before they went to bed. ",
+            description: "Another year, another internship. Bangalore, to me, felt paradoxical. The commute times didn’t make sense. A culture of complaining gets you to believe it’s the roads that hold you back. But depending on when you left, you could get where you needed to in 20 minutes or 2 hours. I really wished the city was more pedestrian, planned, and well equipped with public transport. But for now, I just hoped to meet my friends before they went to bed. ",
             image: '',
             location: {
                 center: [77.620326, 13.000179],
@@ -238,7 +238,7 @@ var config = {
             date: 'Still Feb 2020',
             title: '',
             iframe: 'https://open.spotify.com/embed/track/3AHqaOkEFKZ6zEHdiplIv7?utm_source=generator',
-            description: "This driving-after-peak-hours business started to feel like a great idea. I got to take in a lot more of the city at a leisurely pace. New lights, new signboards, new people that take to the streets at this time. I saw a lot more of Bangalore's working crowd on this side, something you don’t get to see much of back in sleepy Yelahanka. Tokyo Drifting made for a slick night-time soundtrack after a good day of work and socialising. Now time for some sightseeing and wishful drifting. I can’t drift, of course. In Shibuya or in Koramangala. No. ",
+            description: "This driving-after-peak-hours business started to feel like a great idea. I got to take in a lot more of the city at a leisurely pace. New lights, new signboards, new people that take to the streets at this time. I saw a lot more of Bangalore's working crowd on this side, something you don’t get to see much of back in sleepy Yelahanka. Tokyo Drifting made for a slick night-time soundtrack after a good day of work and socialising. Now time for some sightseeing and wishful drifting. I can’t drift, of course. In Shibuya nor Koramangala. No. ",
             image: '',
             location: {
                 center: [77.623118, 12.931263],
@@ -490,7 +490,7 @@ var config = {
             date: 'These months get long so Sep 2021',
             title: '',
             iframe: 'https://open.spotify.com/embed/track/2LTlO3NuNVN70lp2ZbVswF?utm_source=generator',
-            description: "Kendrick says ‘FEEL’ but I was on ‘THINK’, near the Bowring Institue on St. Marks’ Road. The junction at Koshy’s is always crowded and I had to keep to the left. We’d found a house. Next, I had to pack and furnish. I wondered how we’d handle our chores. I hoped the neighbours were nice. The workplace was a 7 minute walk away but would I have enough time for other things in the day? Yea, speaking of, what do I do with all this free time I’ll get? I hoped the landlord wasn’t a prick. How often would I visit home? What if my folks miss me too much? Watch that auto. Most of my friends aren’t around. Would I make new ones? Do i even want to right now? Keep left Have to watch my finances and myRoutine I hope thisis the rightmove?IthinkImaybeanx- Turn. Now. ",
+            description: "Kendrick says ‘FEEL’ but I was on ‘THINK’, near the Bowring Institue on St. Marks’ Road. The junction at Koshy’s is always crowded and I had to keep to the left. We’d found a house. Next, I had to pack and furnish. I wondered how we’d handle our chores. I hoped the neighbours were nice. The workplace was a 7 minute walk away but would I have enough time for other things in the day? Yea, speaking of, what do I do with all this free time I’ll get? I hoped the landlord wasn’t a prick. How often would I visit home? What if my folks miss me too much? <em>Watch that auto</em> Most of my friends aren’t around. Would I make new ones? Do i even want to right now? <em>Keep left</em> Have to watch my finances and myRoutine I hope thisis the rightmove?IthinkImaybeanx- <em>Turn. Now.</em> ",
             image: '',
             location: {
                 center: [77.601607, 12.975733],
