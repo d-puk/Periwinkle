@@ -210,7 +210,7 @@ var config = {
             date: 'Feb 2020',
             title: '',
             iframe: 'https://open.spotify.com/embed/track/4U45aEWtQhrm8A5mxPaFZ7?utm_source=generator',
-            description: "At 10:30 PM, this stretch between Koramangala and Domlur feels like a warm blanket. You get to glide comfortably between forested defence land, catching a break from the bad game of traffic-tetris you're forced to play. A Wagon-R has never felt safer. I mean, I have an introvert's shell as it is, but this is something else. The fatigue of trying to be everywhere all the time was beginning to set in. But Billy Joel had the right words to give me a lift.",
+            description: "At 10:30 PM, this stretch between Koramangala and Domlur feels like a warm blanket. You get to glide comfortably between forested defence land, catching a break from the bad game of traffic-tetris you're forced to play. A Wagon R has never felt safer. I mean, I have an introvert's shell as it is, but this is something else. The fatigue of trying to be everywhere all the time was beginning to set in. But Billy Joel had the right words to give me a lift.",
             image: '',
             location: {
                 center: [77.637492, 12.941939],
@@ -378,7 +378,7 @@ var config = {
             date: 'Aug 2021',
             title: '',
             iframe: 'https://open.spotify.com/embed/track/66V5BpE4bbuRWZyehvmuq6?utm_source=generator',
-            description: "An ancient building, which now houses an army canteen, stared at me while I waited at the signal down Cubbon Road. I found out it was <a href='https://economictimes.indiatimes.com/news/politics-and-nation/103-year-old-building-now-army-canteen-was-earlier-a-ballroom-and-later-brv-talkies/articleshow/49490567.cms?from=mdr' target='_blank'>110 years old</a> and housed a ballroom, and later, a cinema hall. I have GeoGuesser to thank for that discovery. Small joys of being out and about again, but I couldn’t fathom how we were still standing after the last few months. Or how we made up our minds to get up and get going. I didn't know if the people around had processed things. I didn’t know if I did. ",
+            description: "An ancient building, which now houses an army canteen, stared at me while I waited at the signal down Cubbon Road. I found out it was a <a href='https://economictimes.indiatimes.com/news/politics-and-nation/103-year-old-building-now-army-canteen-was-earlier-a-ballroom-and-later-brv-talkies/articleshow/49490567.cms?from=mdr' target='_blank'>110 years old</a> and housed a ballroom, and later, a cinema hall. I have GeoGuesser to thank for that discovery. Small joys of being out and about again, but I couldn’t fathom how we were still standing after the last few months. Or how we made up our minds to get up and get going. I didn't know if the people around had processed things. I didn’t know if I did. ",
             image: './images/Shook.JPG',
             location: {
                 center: [77.602361, 12.979333],
