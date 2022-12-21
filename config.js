@@ -8,7 +8,7 @@ var config = {
     img: './images/Periwinkle.PNG',
     subtitle: '2019-2022・A Bangalore Story',
     byline: 'Written, illustrated and developed by dpuk',
-    footer: "If you’ve made it till here, thank you so much for reading. This was months in the making, and it was a real journey to learn how to put together a story like this. I have Sid, Kiran and Joshua to thank for clearing a million of my doubts. A big thanks to Sahil and the rest of my lovelies for their thoughts on all the drafts. Something about standing on giant shoulders, and all that.<br><br>Gathering data for a memory project like this is tricky, because the data itself can be subjective. But Notion timestamps and Spotify histories saved my butt here. I was able to retrace my listening, and couple it with the rest of my memory. If I’ve learnt something about myself while doing this, it’s that I can recall stuff all the way from inane to intimate.<br><br>There were so many more tracks that didn’t make the cut but did remind me of places and people. I promise you, my Spotify voyages go way beyond hip-hop. Link with me and we could share some music :)<br><br>I found this to be a fascinating way to remember life, and I hope you did too.",
+    footer: "If you’ve made it till here, thank you so much for reading. This was months in the making, and it was a real journey to learn how to put together a story like this. I have Sid, Kiran and Joshua to thank for clearing a million of my doubts. A big thanks to Sahil and the rest of my lovelies for their thoughts on all the drafts. Baby brother helped me get all these pictures. Something about standing on giant shoulders, and all that.<br><br>Gathering data for a memory project like this is tricky, because the data itself can be subjective. But Notion timestamps and Spotify histories saved my butt here. I was able to retrace my listening, and couple it with the rest of my memory.<br><br>There were so many more tracks that didn’t make the cut but did remind me of places and people. I promise you, my Spotify voyages go far. Link with me and we could share some music :)<br><br>I found this to be a fascinating way to remember life, and I hope you did too.",
     chapters: [
         {
             id: 'intro',
@@ -16,7 +16,7 @@ var config = {
             date: '',
             title: '',
             iframe: '',
-            description: "I learned how to drive in 2018. A year later, I started taking my mother’s Wagon R out more often. I was excited to get around the city by myself. Few had warned me I had picked the wrong city to enjoy driving. I would eventually find out what they meant, but didn’t always agree, because my playlists kept me company.<br><br>This is how I remember Bangalore : By the music that attached itself to routes that I repeated; by the spots where my thoughts and memories are now anchored forever; by reminders of the mundane and the changed.<br><br>I don’t know if anyone can relate but this is what I remember.",
+            description: "I learned how to drive in 2018. A year later, I started taking my mother’s Wagon R out more often. I was excited to get around the city by myself. Few had warned me I had picked the wrong city to enjoy driving. I would eventually find out what they meant, but didn’t always agree, because my playlists kept me company.<br><br>This is how I remember Bangalore : By the music that attached itself to routes that I frequented; by the spots where my thoughts and memories are now anchored; by reminders of the mundane and the changed.<br><br>I don’t know if anyone can relate but this is what I remember.",
             image: '',
             location: {
                 center: [77.58766, 13.08030],
@@ -43,7 +43,7 @@ var config = {
             date: 'May 2019',
             title: '',
             iframe: 'https://open.spotify.com/embed/track/7eqoqGkKwgOaWNNHx90uEZ?utm_source=generator',
-            description: "When I first started driving, it was to get to my workplace during my first internship. The lovely team I worked with put me on to Frank Ocean, said he was their ‘Lord and Saviour’. I didn’t take to it at first but then he sang ‘Ooh nani nani’ while I was driving down Jakkur one evening. I made great friends that summer and my team gained a fellow convert. ",
+            description: "When I first started driving, it was to get to my workplace during my first internship. The lovely people I worked with put me on to Frank Ocean, said he was their ‘Lord and Saviour’. I didn’t take to it at first but then he went ‘Ooh nani nani’ while I was driving down Jakkur one evening. I made great friends that summer and my team gained a fellow convert. ",
             image: '',
             location: {
                 center: [77.615599, 13.071054],
@@ -126,7 +126,7 @@ var config = {
             date: 'Jan 2020',
             title: '',
             iframe: 'https://open.spotify.com/embed/track/53RG6rDqEvGDsZ0Ijr3ur1?utm_source=generator',
-            description: "Woke up at 6:30. Got to work by 10:45. Worked until 6:30 to produce… a handful of sketches, some iterations and maybe half an idea for our project? No one really tells you that thinking about your work also counts as work. Lessons for way later. Right now, it didn’t stop me from singing about a mythical year-long grindset. ",
+            description: "Woke up at 6:30. Got to work by 10:45. Worked until 6:30 to produce… a handful of sketches, some iterations and maybe half an idea for our project? No one really tells you that thinking about your work also counts as work. Lessons for way later. At the moment, it didn’t stop me from singing about a mythical year-long grindset. ",
             image: '',
             location: {
                 center: [77.610167, 13.042911],
@@ -154,8 +154,8 @@ var config = {
             date: ' Later in Jan 2020',
             title: '',
             iframe: 'https://open.spotify.com/embed/track/0EbR69wEU7IuV3loOUxLOx?utm_source=generator',
-            description: "No cohesive thoughts this evening. Uncertain days ahead. Political unrest. Murmurs about some virus. Information overload. Future shock. Questions about work and relevance. Impostor syndrome saying ‘wyd’. Mr. Incredible would relate. Will the Manyata flyover ever be fixed? Lake view from that building must be nice",
-            image: '',
+            description: "No cohesive thoughts this evening. Uncertain days ahead. Political awakening. Murmurs about some virus. Information overload. <a href='https://en.wikipedia.org/wiki/Future_Shock' target='_blank'>Future shock</a>. Questions about work and relevance. Impostor syndrome saying ‘wyd’. Mr. Incredible would relate. Will the Manyata flyover ever be fixed? Lake view from that building must be nice",
+            image: './images/Evening.JPG',
             location: {
                 center: [77.614344, 13.041693],
                 zoom: 16.48,
@@ -210,7 +210,7 @@ var config = {
             date: 'Feb 2020',
             title: '',
             iframe: 'https://open.spotify.com/embed/track/4U45aEWtQhrm8A5mxPaFZ7?utm_source=generator',
-            description: "At 10:30 PM, this stretch between Koramangala and Domlur feels like a blanket. You get to glide comfortably between forested defence land, catching a break from the street lights and break-clutching. The fatigue of trying to be everywhere all the time was beginning to set in. But Billy Joel had the right words to give me a lift.",
+            description: "At 10:30 PM, this stretch between Koramangala and Domlur feels like a warm blanket. You get to glide comfortably between forested defence land, catching a break from the bad game of traffic-tetris you're forced to play. A Wagon-R has never felt safer. I mean, I have an introvert's shell as it is, but this is something else. The fatigue of trying to be everywhere all the time was beginning to set in. But Billy Joel had the right words to give me a lift.",
             image: '',
             location: {
                 center: [77.637492, 12.941939],
@@ -238,7 +238,7 @@ var config = {
             date: 'Still Feb 2020',
             title: '',
             iframe: 'https://open.spotify.com/embed/track/3AHqaOkEFKZ6zEHdiplIv7?utm_source=generator',
-            description: "This driving-after-peak-hours business started to feel like a great idea. I got to take in a lot more of the city at a leisurely pace. New lights, new signboards, new people that take to the streets at this time. I saw a lot more of Bangalore's working crowd on this side, something you don’t get to see much of back in sleepy Yelahanka. Tokyo Drifting made for a slick night-time soundtrack after a good day of work and socialising. Now time for some sightseeing and wishful drifting. I can’t drift, of course. In Shibuya nor Koramangala. No. ",
+            description: "This driving-after-peak-hours business started to feel like a great idea. I got to take in a lot more of the city at a leisurely pace. New lights, new signboards, new people that take to the streets at this time. I saw a lot more of Bangalore's working crowd on this side, something you don’t get to see much of back in sleepy Yelahanka. Tokyo Drifting made for a slick night-time soundtrack after a good day of work and socialising. Now, time for some sightseeing and wishful drifting. I can’t drift, of course. In Shibuya nor Koramangala. No. ",
             image: '',
             location: {
                 center: [77.623118, 12.931263],
@@ -267,10 +267,10 @@ var config = {
             title: '',
             iframe: 'https://open.spotify.com/embed/track/0sf12qNH5qcw8qpgymFOqD?utm_source=generator',
             description: "The first and last time I played this song while driving. I was first in line at the signal. A long, empty, snaking highway lay in front of me, beneath the flyover to the airport. The light turned green and Abel started howling on the chorus. I got a little carried away and went a little over 60. Okay, maybe over 70. I was violently honked at by a couple that got spooked, and I immediately felt so red. I’m so sorry.",
-            image: '',
+            image: './images/Blinding.JPG',
             location: {
                 center: [77.593251, 13.057415],
-                zoom: 16.90,
+                zoom: 17.78,
                 pitch: 69.78,
                 bearing: 0.00
             },
@@ -378,8 +378,8 @@ var config = {
             date: 'Aug 2021',
             title: '',
             iframe: 'https://open.spotify.com/embed/track/66V5BpE4bbuRWZyehvmuq6?utm_source=generator',
-            description: "An ancient building, which now houses an army canteen, stared at me while I waited at the signal down Cubbon Road. I found out it was 110 years old and housed a ballroom, and later a cinema hall. I have GeoGuesser to thank for that discovery. Small joys of being out and about again, but I couldn’t fathom how we were still standing after the last few months. Or how we made up our minds to get up and get going. I didn't know if the people around had processed things. I didn’t know if I did. ",
-            image: '',
+            description: "An ancient building, which now houses an army canteen, stared at me while I waited at the signal down Cubbon Road. I found out it was <a href='https://economictimes.indiatimes.com/news/politics-and-nation/103-year-old-building-now-army-canteen-was-earlier-a-ballroom-and-later-brv-talkies/articleshow/49490567.cms?from=mdr' target='_blank'>110 years old</a> and housed a ballroom, and later, a cinema hall. I have GeoGuesser to thank for that discovery. Small joys of being out and about again, but I couldn’t fathom how we were still standing after the last few months. Or how we made up our minds to get up and get going. I didn't know if the people around had processed things. I didn’t know if I did. ",
+            image: './images/Shook.JPG',
             location: {
                 center: [77.602361, 12.979333],
                 zoom: 17.55,
@@ -407,7 +407,7 @@ var config = {
             title: '',
             iframe: 'https://open.spotify.com/embed/track/06sUjHHAo2kJGmCIvPKBEm?utm_source=generator',
             description: "Another rainy evening in session, this time as I came down the Hebbal flyover. Aaron Parks delivered bliss while the drops on the windshield reduced the view to a sea of head/tail lights. At this point, I had gotten good at swimming. It was tiring, yes, to drive everyday, but I’d found a pace that fit. I couldn’t ever rage my way out of this city’s traffic so surrendering to it worked surprisingly well. I found that I could get anywhere as long as I kept cruising at 40/50 kph. And that’s a win. ‘Slow is fast’, as I would read around a year later.",
-            image: '',
+            image: './images/Lilac.JPG',
             location: {
                 center: [77.592391, 13.048722],
                 zoom: 16.18,
@@ -434,7 +434,7 @@ var config = {
             date: 'Sep 2021',
             title: '',
             iframe: 'https://open.spotify.com/embed/track/2jdAk8ATWIL3dwT47XpRfu?utm_source=generator',
-            description: "As comfortable as it could get, driving cross-city everyday was unsustainable. It drained me by the end of the day and made me quite passive. I was planning on moving to Koramangala. The logistics of it checked out. But I wasn’t so sure about my gut. When it came to house hunting, my folks had a gesture that explained it all - a thumb running across the forehead - which meant it was all about luck. But people took workshops and webinars on finding places in this city ffs so clearly there must be a science to it? I didn’t know what this change would look like, so I guessed I’d have to meet it to find out. John Mayer’s off-subject pessimism sounded too good to switch tracks.",
+            description: "As comfortable as it could get, driving cross-city everyday was unsustainable. It drained me by the end of the day and made me quite passive. I was planning on moving to Koramangala. The logistics of it checked out. But I wasn’t so sure about my gut. When it came to house hunting, my folks had a gesture that explained it - a thumb running across the forehead - which meant it was all about luck. But people took workshops and webinars on finding places in this city ffs so clearly there must be a science to it? I didn’t know what this change would look like, so I guessed I’d have to meet it to find out. John Mayer’s off-subject pessimism sounded too good to switch tracks.",
             image: '',
             location: {
                 center: [77.606472, 12.967295],
@@ -462,8 +462,8 @@ var config = {
             date: 'Sep 2021',
             title: '',
             iframe: 'https://open.spotify.com/embed/track/11aFVmFy8903RwDx4ohQiq?utm_source=generator',
-            description: "I made a new playlist for songs that make me sit straight, breathe easy and bob my head. Common makes one of the first additions. A hypnotic bassline followed by powerful verses, this was my perfect good morning track. I inched my way down Infantry Road. Green and gold leaves covered the sky and some more old architecture. Moving into the city meant that I would stop driving for a bit, which I welcomed. It also meant that I'd miss the solitary headspace inside a car for a bit. ",
-            image: '',
+            description: "I made a new playlist for songs that make me sit straight, breathe easy and bob my head. Common makes one of the first additions. A hypnotic bassline and powerful verses made this my perfect good morning track. I inched my way down Infantry Road. Green and gold leaves covered the sky and some more old architecture. Moving into the city meant that I would stop driving for a bit, which I welcomed. It also meant that I'd miss the solitary headspace inside a car, something I'd grown used to. ",
+            image: './images/Be.JPG',
             location: {
                 center: [77.59569, 12.983295],
                 zoom: 18.14,
@@ -490,7 +490,7 @@ var config = {
             date: 'These months get long so Sep 2021',
             title: '',
             iframe: 'https://open.spotify.com/embed/track/2LTlO3NuNVN70lp2ZbVswF?utm_source=generator',
-            description: "Kendrick says ‘FEEL’ but I was on ‘THINK’, near the Bowring Institue on St. Marks’ Road. The junction at Koshy’s is always crowded and I had to keep to the left. We’d found a house. Next, I had to pack and furnish. I wondered how we’d handle our chores. I hoped the neighbours were nice. The workplace was a 7 minute walk away but would I have enough time for other things in the day? Yea, speaking of, what do I do with all this free time I’ll get? I hoped the landlord wasn’t a prick. How often would I visit home? What if my folks miss me too much? <em>Watch that auto</em> Most of my friends aren’t around. Would I make new ones? Do i even want to right now? <em>Keep left</em> Have to watch my finances and myRoutine I hope thisis the rightmove?IthinkImaybeanx- <em>Turn. Now.</em> ",
+            description: "Kendrick says ‘FEEL’ but I was on ‘THINK’, near the Bowring Institue on St. Marks’ Road. The junction at Koshy’s is always crowded. <em>Keep to the left.</em> We’d found a house. Next, I had to pack and furnish. I wondered how we’d handle our chores. I hoped the neighbours were nice. The workplace was a 7 minute walk away but would I have enough time for other things in the day? Yea, speaking of, what do I do with all this free time I’ll get? I hoped the landlord wasn’t a prick. How often would I visit home? What if my folks miss me too much? <em>Watch that auto.</em> Most of my friends aren’t around. Would I make new ones? Do i even want to right now? <em>Keep left</em> Have to watch my finances and myRoutine I hope thisis the rightmove?IthinkIfeelanx- <em>Turn. Now.</em> ",
             image: '',
             location: {
                 center: [77.601607, 12.975733],
@@ -518,8 +518,8 @@ var config = {
             date: 'Dec 2021',
             title: '',
             iframe: 'https://open.spotify.com/embed/track/2ifZGBMvT6OcSgnHLecqNn?utm_source=generator',
-            description: "Contrary to the last drive, moving out was a great decision. Sorry, I guess it’s like that sometimes. I felt awake. I didn’t think I’d be capable of doing well for myself until I did it. On the other hand, I could spot my anxiety but I didn’t know what to do with it. It was like one of those ‘this can’t be the same brain that…’ kind of memes. I know it sounds odd, but at the moment, I loved how Odd sounded. I hate it when songs find the right things to say, but it felt like a hug. Also, the ‘Follow Someone Home’ sign at the end of this Golf Course road is a must see. ",
-            image: '',
+            description: "Contrary to the last drive, moving out was a great decision. Sorry, I guess it’s like that sometimes. I felt awake. I didn’t think I’d be capable of doing well for myself until I did it. On the other hand, I could spot my anxiety but I didn’t know what to do with it. It was like one of those <em>‘this can’t be the same brain that…’</em> kind of memes. I know it sounds odd, but at the moment, I loved how Odd sounded. I hate it when songs find the right things to say, but it felt like a hug. Also, the ‘Follow Someone Home’ sign at the end of this Golf Course road is a must see. ",
+            image: './images/Maze.jpeg',
             location: {
                 center: [77.587211, 12.987940],
                 zoom: 17.73,
@@ -603,7 +603,7 @@ var config = {
             title: '',
             iframe: 'https://open.spotify.com/embed/track/3p2O5DDqlWdaR1l4wsHn9R?utm_source=generator',
             description: "I’d turned the corner of Queen’s Road many times, but I first spotted the Victoria Statue on a late afternoon drive. It’s hard to do that in the evening, with all the trees, which is when I used to come this way. I was revisiting this album as well. There was plenty to pay closer attention to, now that the active living experiment was a success. Time. Privilege. (Re)Education. Health. Investments. Taxes. Family. Friends. Patterns. The Adulthood Lexicon lay wide open and it kept growing. Mr. Carter was only handing me more words. I was adding another one to it : Therapy. ",
-            image: '',
+            image: './images/Legacy.jpeg',
             location: {
                 center: [77.599166, 12.976782],
                 zoom: 17.55,
@@ -630,7 +630,7 @@ var config = {
             date: 'May 2022',
             title: '',
             iframe: 'https://open.spotify.com/embed/track/3twYhdFChj2gHF0PZzDkHV?utm_source=generator',
-            description: "May was turning out to be a very exciting month. I just hit a new vein of inspiration after ages. I was toying with the idea of taking my career in a different direction, and the more I weighed it, the more capable I felt. Credit to all the amazing people, work and communities I found on my Twitter timeline. I had so many ideas to plant and grow. Creative juices were at an all time high and I was letting doubt take the backseat a little more often. This is now my solarpunk era, and Common is on the soundtrack",
+            description: "May was turning out to be a very exciting month. I just hit a new vein of inspiration after ages. I was toying with the idea of making some career adjustments, and the more I weighed it, the more solid it felt. Credit to all the amazing people, work and communities I found on my Twitter timeline. I had so many ideas to plant and grow. Creative juices were at an all time high and I was letting doubt take the backseat a little more often. This is now my solarpunk era, and Common is on the soundtrack.",
             image: '',
             location: {
                 center: [77.593605, 13.057476],
@@ -655,10 +655,10 @@ var config = {
         {
             id: 'track-23',
             alignment: 'left',
-            date: 'Jul 2022',
+            date: 'Aug 2022',
             title: '',
             iframe: 'https://open.spotify.com/embed/track/465eCPwUAz2qz7IdQaxUui?utm_source=generator',
-            description: "I was veering into Koramangala, when I caught myself thinking of it as ‘my neighbourhood’. I wondered if I should avoid such language, but I was learning to let me be. And it felt radical. No, really. If it sounds romantic, that’s because it is. It’s an act of kindness and it’s amazing how deceptively simple a practice it is. So is using my ego, stating my feelings, stating my needs, listening to my body and drawing my lines. The beat on this track just let me have it. I’m learning, I’m accountable, I’m reconnecting, I’m grateful for everything, I’m letting me have it and I love it. ",
+            description: "I was veering into Koramangala, when I caught myself thinking of it as ‘my neighbourhood’. I wondered if I should avoid such language, but I was learning to let me be. And it felt radical. No, really. If it sounds romantic, that’s because it is. It’s an act of kindness and it’s amazing how deceptively simple the practice is. So is using my ego, stating my feelings, stating my needs, listening to my body and drawing my lines. The beat on this track just let me have it. I'm sorry but I'm not, I’m learning, I’m accountable, I’m reconnecting, I’m grateful for everything, I’m letting me have it and I love it. ",
             image: '',
             location: {
                 center: [77.612388, 12.934472],
@@ -686,8 +686,8 @@ var config = {
             date: 'Oct 2022',
             title: '',
             iframe: 'https://open.spotify.com/embed/track/4ZsVEjUo8etXtluOqXWfa4?utm_source=generator',
-            description: "Took a trip to Mumbai, then Goa. Also Ooty, a week or two later. I love the feeling of displacement that comes with travelling, the one that makes you feel like a speck. I was plenty thankful for the trip to Ahmedabad earlier in the year, but this was triple the humble juice dosage. My barber decided that wasn’t enough humble, so he worked his magic. Joke’s on him, Diwali is done and I got the pics I needed. I was heading into the underpass that opens into my layout. I felt 5 years in one. I don’t know how time works but I’m glad it does. ",
-            image: '',
+            description: "Took a trip to Mumbai, then Goa. Also Ooty, a week or two later. I love the feeling of displacement that comes with travelling, the one that makes you feel like a speck. I was plenty thankful for the trip to Ahmedabad earlier in the year, but this was triple the humble juice dosage. My barber decided that wasn’t enough humble, so he worked his magic. Joke’s on him, Diwali is done and I got the pics I needed. I was heading into the underpass that opens into my layout. I felt five years in one. I don’t know how time works but I’m glad it does. ",
+            image: './images/Todo.jpeg',
             location: {
                 center: [77.592442, 13.077208],
                 zoom: 15.07,

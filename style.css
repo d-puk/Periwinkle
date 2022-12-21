@@ -189,7 +189,7 @@ a, a:hover, a:visited {
     opacity: 0.25;
 }
 .step.active {
-    opacity: 0.9;
+    opacity: 0.99;
 }
 
 .step div {
@@ -209,6 +209,8 @@ a, a:hover, a:visited {
 
 .step img {
     width: 100%;
+    height: auto;
+    border-radius: 8px;
 }
 
 @media (max-width: 750px) {
