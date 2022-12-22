@@ -44,7 +44,7 @@ var config = {
             title: '',
             iframe: 'https://open.spotify.com/embed/track/7eqoqGkKwgOaWNNHx90uEZ?utm_source=generator',
             description: "When I first started driving, it was to get to my workplace during my first internship. The lovely people I worked with put me on to Frank Ocean, said he was their ‘Lord and Saviour’. I didn’t take to it at first but then he went ‘Ooh nani nani’ while I was driving down Jakkur one evening. I made great friends that summer and my team gained a fellow convert. ",
-            image: '',
+            image: './images/Nights.JPG',
             location: {
                 center: [77.615599, 13.071054],
                 zoom: 16.27,
@@ -462,7 +462,7 @@ var config = {
             date: 'Sep 2021',
             title: '',
             iframe: 'https://open.spotify.com/embed/track/11aFVmFy8903RwDx4ohQiq?utm_source=generator',
-            description: "I made a new playlist for songs that make me sit straight, breathe easy and bob my head. Common makes one of the first additions. A hypnotic bassline and powerful verses made this my perfect good morning track. I inched my way down Infantry Road. Green and gold leaves covered the sky and some more old architecture. Moving into the city meant that I would stop driving for a bit, which I welcomed. It also meant that I'd miss the solitary headspace inside a car, something I'd grown used to. ",
+            description: "I made a new <a href='https://open.spotify.com/playlist/6yHSvsZ0Zye5Gmo9bQMsWZ?si=c9b7a20681d54045' target='_blank'>playlist</a> for songs that make me sit straight, breathe easy and bob my head. Common makes one of the first additions. A hypnotic bassline and powerful verses made this my perfect good morning track. I inched my way down Infantry Road. Green and gold leaves covered the sky and some more old architecture. Moving into the city meant that I would stop driving for a bit, which I welcomed. It also meant that I'd miss the solitary headspace inside a car, something I'd grown used to. ",
             image: './images/Be.JPG',
             location: {
                 center: [77.59569, 12.983295],
@@ -518,7 +518,7 @@ var config = {
             date: 'Dec 2021',
             title: '',
             iframe: 'https://open.spotify.com/embed/track/2ifZGBMvT6OcSgnHLecqNn?utm_source=generator',
-            description: "Contrary to the last drive, moving out was a great decision. Sorry, I guess it’s like that sometimes. I felt awake. I didn’t think I’d be capable of doing well for myself until I did it. On the other hand, I could spot my anxiety but I didn’t know what to do with it. It was like one of those <em>‘this can’t be the same brain that…’</em> kind of memes. I know it sounds odd, but at the moment, I loved how Odd sounded. I hate it when songs find the right things to say, but it felt like a hug. Also, the ‘Follow Someone Home’ sign at the end of this Golf Course road is a must see. ",
+            description: "Contrary to the last drive, moving out was a great decision. Sorry, I guess it’s like that sometimes. I felt awake. I didn’t think I’d be capable of doing well for myself until I did it. On the other hand, I could spot my anxiety but I didn’t know what to do with it. It was like one of those <em>‘this can’t be the same brain that…’</em> kind of memes. I know it sounds odd, but at the moment, I loved how Odd sounded. I hate it when songs find the right things to say, but they feel like a hug. Also, the ‘Follow Someone Home’ sign at the end of this Golf Course road is a must see. ",
             image: './images/Maze.jpeg',
             location: {
                 center: [77.587211, 12.987940],
@@ -658,7 +658,7 @@ var config = {
             date: 'Aug 2022',
             title: '',
             iframe: 'https://open.spotify.com/embed/track/465eCPwUAz2qz7IdQaxUui?utm_source=generator',
-            description: "I was veering into Koramangala, when I caught myself thinking of it as ‘my neighbourhood’. I wondered if I should avoid such language, but I was learning to let me be. And it felt radical. No, really. If it sounds romantic, that’s because it is. It’s an act of kindness and it’s amazing how deceptively simple the practice is. So is using my ego, stating my feelings, stating my needs, listening to my body and drawing my lines. The beat on this track just let me have it. I'm sorry but I'm not, I’m learning, I’m accountable, I’m reconnecting, I’m grateful for everything, I’m letting me have it and I love it. ",
+            description: "I was veering into Koramangala, when I caught myself thinking of it as ‘my neighbourhood’. I wondered if I should avoid such language, but I was learning to let me be. And it felt radical. No, really. If it sounds romantic, that’s because it is. It’s an act of kindness. So is using my ego, stating my feelings, stating my needs, listening to my body and drawing my lines. The beat on this track just let me have it. I'm sorry but I'm not, I’m learning, I’m accountable, I’m reconnecting, I’m grateful for everything, I’m letting me have it and I love it. ",
             image: '',
             location: {
                 center: [77.612388, 12.934472],
