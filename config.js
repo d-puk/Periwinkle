@@ -16,7 +16,7 @@ var config = {
             date: '',
             title: '',
             iframe: '',
-            description: "I learned how to drive in 2018. A year later, I started taking my mother’s Wagon R out more often. I was excited to get around the city by myself. Few had warned me I had picked the wrong city to enjoy driving. I would eventually find out what they meant, but didn’t always agree, because my playlists kept me company.<br><br>This is how I remember Bangalore : By the music that attached itself to routes that I frequented; by the spots where my thoughts and memories are now anchored; by reminders of the mundane and the changed.<br><br>I don’t know if anyone can relate but this is what I remember.",
+            description: "I learned how to drive in 2018. A year later, I started taking my mother’s Wagon R out more often. I was excited to get around the city by myself. Few had warned me about picking the wrong city to enjoy driving in. I would eventually find out what they meant. But it wasn't all bad, because my playlists kept me company.<br><br>This is how I remember Bangalore : By the music that attached itself to routes that I frequented; by the spots where my thoughts and memories are now anchored; by reminders of the mundane and the changed.<br><br>I don’t know if anyone can relate but this is what I remember.",
             image: '',
             location: {
                 center: [77.58766, 13.08030],
@@ -378,7 +378,7 @@ var config = {
             date: 'Aug 2021',
             title: '',
             iframe: 'https://open.spotify.com/embed/track/66V5BpE4bbuRWZyehvmuq6?utm_source=generator',
-            description: "An ancient building, which now houses an army canteen, stared at me while I waited at the signal down Cubbon Road. I found out it was a <a href='https://economictimes.indiatimes.com/news/politics-and-nation/103-year-old-building-now-army-canteen-was-earlier-a-ballroom-and-later-brv-talkies/articleshow/49490567.cms?from=mdr' target='_blank'>110 years old</a> and housed a ballroom, and later, a cinema hall. I have GeoGuesser to thank for that discovery. Small joys of being out and about again, but I couldn’t fathom how we were still standing after the last few months. Or how we made up our minds to get up and get going. I didn't know if the people around had processed things. I didn’t know if I did. ",
+            description: "An ancient building, which now houses an army canteen, stared at me while I waited at the signal down Cubbon Road. I found out it was a <a href='https://economictimes.indiatimes.com/news/politics-and-nation/103-year-old-building-now-army-canteen-was-earlier-a-ballroom-and-later-brv-talkies/articleshow/49490567.cms?from=mdr' target='_blank'>110 years old</a> and housed a ballroom, and later, a cinema hall. I have GeoGuesser to thank for that discovery. Small joys of being out and about again, but I couldn’t fathom how we were still standing after the last few months. Or how we made up our minds to get up and get going. I didn't know if the people around had processed things. I didn’t know if I had. ",
             image: './images/Shook.JPG',
             location: {
                 center: [77.602361, 12.979333],
