@@ -8,7 +8,7 @@ var config = {
     img: './images/Periwinkle.PNG',
     subtitle: '2019-2022・A Bangalore Story',
     byline: 'Written, illustrated and developed by dpuk',
-    footer: "If you’ve made it till here, thank you so much for reading. This was months in the making, and it was a real journey to learn how to put together a story like this. I have Sid, Kiran and Joshua to thank for clearing a million of my doubts. A big thanks to Sahil and the rest of my lovelies for their thoughts on all the drafts. Baby brother helped me get all these pictures. Something about standing on giant shoulders, and all that.<br><br>Gathering data for a memory project like this is tricky, because the data itself can be subjective. But Notion timestamps and Spotify histories saved my butt here. I was able to retrace my listening activity, and couple it with the rest of my memory.<br><br>There were so many more tracks that didn’t make the cut but did remind me of places and people. I promise you, my Spotify voyages go further than what I've featured here. Hit me up and we could share some music :)<br><br>I found this to be a fascinating way to remember life, and I hope you did too.",
+    footer: "If you’ve made it till here, thank you so much for reading. This was months in the making, and it took me a while to learn how to put together a story like this. I have Sid, Kiran and Joshua to thank for clearing a million of my doubts. A big thanks to Sahil and the rest of my lovelies for their thoughts on all the drafts. Baby brother helped me get all these pictures. Something about standing on giant shoulders, and all that.<br><br>Gathering data for a memory project like this is tricky, because the data itself can be subjective. But Notion timestamps and Spotify histories saved my butt here. I was able to retrace my listening activity, and couple it with the rest of my memory.<br><br>There were so many more tracks that didn’t make the cut but did remind me of places and people. I promise you, my Spotify voyages go further than what I've featured here. Hit me up and we could share some music :)<br><br>I found this to be a fascinating way to remember life, and I hope you did too.",
     chapters: [
         {
             id: 'intro',
@@ -182,7 +182,7 @@ var config = {
             date: 'Feb 2020',
             title: '',
             iframe: 'https://open.spotify.com/embed/track/6Iuh3vNjpWhSeHM3RZgzQL?utm_source=generator',
-            description: "Just a month in and 2020 demanded a gajmillion extra braincells. Just like this lawless turning underneath the Hennur bridge. Here, I once saw a lazy traffic cop smack a moving rider on the back of his head for not wearing a helmet. He didn’t even slow the vehicle down. Surgical. Anyway, nothing like a healthy dose of HOV’s braggadocio to boost you before a day of noble pixel pushing. ",
+            description: "Just a month in and 2020 demanded a gajmillion extra braincells. Just like this lawless turning underneath the Hennur flyover. Here, I once saw a lazy traffic cop smack a moving rider on the back of his head for not wearing a helmet. He didn’t even slow the vehicle down. Surgical. Anyway, nothing like a healthy dose of HOV’s braggadocio to boost you before a day of noble pixel pushing. ",
             image: '',
             location: {
                 center: [77.633132, 13.027688],
@@ -378,7 +378,7 @@ var config = {
             date: 'Aug 2021',
             title: '',
             iframe: 'https://open.spotify.com/embed/track/66V5BpE4bbuRWZyehvmuq6?utm_source=generator',
-            description: "An ancient building, which now houses an army canteen, stared at me while I waited at the signal down Cubbon Road. I found out it was a <a href='https://economictimes.indiatimes.com/news/politics-and-nation/103-year-old-building-now-army-canteen-was-earlier-a-ballroom-and-later-brv-talkies/articleshow/49490567.cms?from=mdr' target='_blank'>110 years old</a> and housed a ballroom, and later, a cinema hall. I have GeoGuesser to thank for that discovery. Small joys of being out and about again, but I couldn’t fathom how we were still standing after the last few months. Or how we made up our minds to get up and get going. I didn't know if the people around had processed things. I didn’t know if I had. ",
+            description: "An ancient building, which now houses an army canteen, stared at me while I waited at the signal down Cubbon Road. I found out it was a <a href='https://economictimes.indiatimes.com/news/politics-and-nation/103-year-old-building-now-army-canteen-was-earlier-a-ballroom-and-later-brv-talkies/articleshow/49490567.cms?from=mdr' target='_blank'>110 years old</a>, housed a ballroom, and later, a cinema hall. I have GeoGuesser to thank for that discovery. Small joys of being out and about again, but I couldn’t fathom how we were still standing after the last few months. Or how we made up our minds to get up and get going. I didn't know if the people around had processed things. I didn’t know if I had. ",
             image: './images/Shook.JPG',
             location: {
                 center: [77.602361, 12.979333],
@@ -434,7 +434,7 @@ var config = {
             date: 'Sep 2021',
             title: '',
             iframe: 'https://open.spotify.com/embed/track/2jdAk8ATWIL3dwT47XpRfu?utm_source=generator',
-            description: "As comfortable as it could get, driving cross-city everyday was unsustainable. It drained me by the end of the day and made me quite passive. I was planning on moving to Koramangala. The logistics of it checked out. But I wasn’t so sure about my gut. When it came to house hunting, my folks had a gesture that explained it - a thumb running across the forehead - which meant it was all about luck. But people took workshops and webinars on finding places in this city ffs so clearly there must be a science to it? I didn’t know what this change would look like, so I guessed I’d have to meet it to find out. John Mayer’s off-subject pessimism sounded too good to switch tracks.",
+            description: "As comfortable as it could get, driving cross-city everyday was unsustainable. It drained me by the end of the day and made me quite passive. I was planning on moving to Koramangala. The logistics of it checked out. But I wasn’t so sure about my gut. When it came to house hunting, my folks had a gesture that explained it - a thumb running across the forehead - which meant it was all about luck. Also, people took workshops and webinars on finding places in this city ffs so clearly there must be a science to it? I didn’t know what this change would look like, so I guessed I’d have to meet it to find out. John Mayer’s off-subject pessimism sounded too good to switch tracks.",
             image: '',
             location: {
                 center: [77.606472, 12.967295],
@@ -518,7 +518,7 @@ var config = {
             date: 'Dec 2021',
             title: '',
             iframe: 'https://open.spotify.com/embed/track/2ifZGBMvT6OcSgnHLecqNn?utm_source=generator',
-            description: "Contrary to the last drive, moving out was a great decision. Sorry, I guess it’s like that sometimes. I felt awake. I didn’t think I’d be capable of doing well for myself until I did it. On the other hand, I could spot my anxiety but I didn’t know what to do with it. It was like one of those <em>‘this can’t be the same brain that…’</em> kind of memes. I know it sounds odd, but at the moment, I loved how Odd sounded. I hate it when songs find the right things to say, but they feel like a hug. Also, the ‘Follow Someone Home’ sign at the end of this Golf Course road is a must see. ",
+            description: "Contrary to the last drive, moving out was a great decision. Sorry, I guess it’s like that sometimes. I felt awake. I didn’t think I’d be capable of doing well for myself until I did it. On the other hand, I could feel my mind on overdrive but I didn’t know what to do with it. It was like one of those <em>‘this can’t be the same brain that…’</em> kind of memes. I know it sounds odd, but at the moment, I loved how Odd sounded. I hate it when songs find the right things to say, but they feel like a hug. Also, the ‘Follow Someone Home’ sign at the end of this Golf Course road is a must see. ",
             image: './images/Maze.jpeg',
             location: {
                 center: [77.587211, 12.987940],
