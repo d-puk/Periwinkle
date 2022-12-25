@@ -406,7 +406,7 @@ var config = {
             date: 'Aug 2021 again',
             title: '',
             iframe: 'https://open.spotify.com/embed/track/06sUjHHAo2kJGmCIvPKBEm?utm_source=generator',
-            description: "Another rainy evening in session, this time as I came down the Hebbal flyover. Aaron Parks delivered bliss while the drops on the windshield reduced the view to a sea of head/tail lights. At this point, I had gotten good at swimming. It was tiring, yes, to drive everyday, but I’d found a pace that fit. I couldn’t ever rage my way out of this city’s traffic so surrendering to it worked surprisingly well. I found that I could get anywhere as long as I kept cruising at 40/50 kph. And that’s a win. ‘Slow is fast’, as I would read around a year later.",
+            description: "Another rainy evening in session, this time as I came down the Hebbal flyover. Aaron Parks delivered bliss while the drops on the windshield reduced the view to a sea of head/tail lights. At this point, I had gotten good at swimming. It was tiring, but I’d found a pace that fit. I couldn’t ever rage my way out of this city’s traffic so surrendering to it worked surprisingly well. I found that I could get anywhere as long as I kept cruising at 40/50 kph. And that’s a win. ‘Slow is fast’, as I would read around a year later.",
             image: './images/Lilac.JPG',
             location: {
                 center: [77.592391, 13.048722],
@@ -518,7 +518,7 @@ var config = {
             date: 'Dec 2021',
             title: '',
             iframe: 'https://open.spotify.com/embed/track/2ifZGBMvT6OcSgnHLecqNn?utm_source=generator',
-            description: "Contrary to the last drive, moving out was a great decision. Sorry, I guess it’s like that sometimes. I felt awake. I didn’t think I’d be capable of doing well for myself until I did it. On the other hand, I could feel my mind on overdrive but I didn’t know what to do with it. It was like one of those <em>‘this can’t be the same brain that…’</em> kind of memes. I know it sounds odd, but at the moment, I loved how Odd sounded. I hate it when songs find the right things to say, but they feel like a hug. Also, the ‘Follow Someone Home’ sign at the end of this Golf Course road is a must see. ",
+            description: "Contrary to the last drive, moving out was a great decision. Sorry, I guess it’s like that sometimes. I felt awake. I didn’t think I’d be capable of doing well for myself until I did it. On the other hand, I could feel my mind on overdrive but I didn’t know what to do about it. It was like one of those <em>‘this can’t be the same brain that…’</em> kind of memes. I know it sounds odd, but at the moment, I loved how Odd sounded. I hate it when songs find the right things to say, but they feel like a hug. Also, the ‘Follow Someone Home’ sign at the end of this Golf Course road is a must see. ",
             image: './images/Maze.jpeg',
             location: {
                 center: [77.587211, 12.987940],
@@ -658,7 +658,7 @@ var config = {
             date: 'Aug 2022',
             title: '',
             iframe: 'https://open.spotify.com/embed/track/465eCPwUAz2qz7IdQaxUui?utm_source=generator',
-            description: "I was veering into Koramangala, when I caught myself thinking of it as ‘my neighbourhood’. I wondered if I should avoid such language, but I was learning to let me be. And it felt radical. No, really. If it sounds romantic, that’s because it is. It’s an act of kindness. So is using my ego, stating my feelings, stating my needs, listening to my body and drawing my lines. The beat on this track just let me have it. I'm sorry but I'm not, I’m learning, I’m accountable, I’m reconnecting, I’m grateful for everything, I’m letting me have it and I love it. ",
+            description: "I was veering into Koramangala, when I caught myself thinking of it as ‘my neighbourhood’. I wondered if I should avoid such language, but I was learning to let me be. And it felt radical. No, really. If it sounds romantic, that’s because it is. It’s an act of kindness. So is using my ego, stating my feelings, stating my needs, listening to my body and drawing my lines. The beat on this track just let me have it. I'm sorry but I'm not, I’m learning, I’m accountable, I’m reconnecting, I’m grateful for everything, <em>I’m</em> letting me have it and I love it. ",
             image: '',
             location: {
                 center: [77.612388, 12.934472],
