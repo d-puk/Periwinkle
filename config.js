@@ -211,7 +211,7 @@ var config = {
             title: '',
             iframe: 'https://open.spotify.com/embed/track/4U45aEWtQhrm8A5mxPaFZ7?utm_source=generator',
             description: "At 10:30 PM, this stretch between Koramangala and Domlur feels like a warm blanket. You get to glide comfortably between forested defence land, catching a break from the bad game of traffic-tetris you're forced to play. A Wagon R has never felt safer. I mean, I have an introvert's shell as it is, but this is something else. The fatigue of trying to be everywhere all the time was beginning to set in. But Billy Joel had the right words to give me a lift.",
-            image: '',
+            image: './images/Vienna.JPG',
             location: {
                 center: [77.637492, 12.941939],
                 zoom: 15.34,
