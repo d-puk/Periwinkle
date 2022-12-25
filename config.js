@@ -16,7 +16,7 @@ var config = {
             date: '',
             title: '',
             iframe: '',
-            description: "I learned how to drive in 2018. A year later, I started taking my mother’s Wagon R out more often. I was excited to get around the city by myself. Few had warned me about picking the wrong city to enjoy driving in. I would eventually find out what they meant. But it wasn't all bad, because my playlists kept me company.<br><br>This is how I remember Bangalore : By the music that attached itself to routes that I frequented; by the spots where my thoughts and memories are now anchored; by reminders of the mundane and the changed.<br><br>I don’t know if anyone can relate but this is what I remember.",
+            description: "I learned how to drive in 2018. A year later, I started taking my mother’s Wagon R out more often. I was excited to get around the city by myself. Few had warned me about picking the wrong place to enjoy driving in. I would eventually find out what they meant. But it wasn't all bad, because my playlists kept me company.<br><br>This is how I remember Bangalore : By the music that attached itself to routes that I frequented; by the spots where my thoughts and memories are now anchored; by reminders of the mundane and the changed.<br><br>I don’t know if anyone can relate but this is what I remember.",
             image: '',
             location: {
                 center: [77.58766, 13.08030],
