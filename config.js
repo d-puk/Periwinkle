@@ -434,7 +434,7 @@ var config = {
             date: 'Sep 2021',
             title: '',
             iframe: 'https://open.spotify.com/embed/track/2jdAk8ATWIL3dwT47XpRfu?utm_source=generator',
-            description: "As comfortable as it could get, driving cross-city everyday was unsustainable. It drained me by the end of the day and made me quite passive. I was planning on moving to Koramangala. The logistics of it checked out. But I wasn’t so sure about my gut. When it came to house hunting, my folks had a gesture that explained it - a thumb running across the forehead - which meant it was all about luck. Also, people took workshops and webinars on finding places in this city ffs so clearly there must be a science to it? I didn’t know what this change would look like, so I guessed I’d have to meet it to find out. John Mayer’s off-subject pessimism sounded too good to switch tracks.",
+            description: "As comfortable as it could get, driving cross-city everyday was unsustainable. It drained me by the end of the day and made me quite passive. I was planning on moving to Koramangala. The logistics of it checked out. But I wasn’t so sure about my gut. When it came to house hunting, my folks had a gesture - a thumb running across the forehead - which meant it was all about luck. Also, people took workshops and webinars on finding places in this city ffs so clearly there must be a science to it? I didn’t know what this change would look like, so I guessed I’d have to meet it to find out. John Mayer’s off-subject pessimism sounded too good to switch tracks.",
             image: '',
             location: {
                 center: [77.606472, 12.967295],
