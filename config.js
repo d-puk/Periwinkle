@@ -1,9 +1,9 @@
 var config = {
     style: 'mapbox://styles/dpuk/cmb0cdqgj00bl01qxba92crjz',
-    accessToken: 'pk.eyJ1IjoiZHB1ayIsImEiOiJjbGFzMDh3ZzgwMGVmM3BxeDBreWlvb2NpIn0.3Fgnw8PeGnYf6omcwHNEFw',
+    accessToken: 'pk.eyJ1IjoiZHB1ayIsImEiOiJjbWJieXdybTkxbWM5MmpwOXFyYjdwMTRkIn0.d-zm0szDpzr77XC9YeaXMA',
     showMarkers: false,
     theme: 'light',
-    use3dTerrain: true,
+    use3dTerrain: false,
     title: 'Periwinkle',
     img: './images/Periwinkle.PNG',
     subtitle: '2019-2022・A Bangalore Story',
@@ -690,9 +690,9 @@ var config = {
             image: './images/Todo.jpeg',
             location: {
                 center: [77.592442, 13.077208],
-                zoom: 15.07,
+                zoom: 17.91,
                 pitch: 45,
-                bearing: -16.01
+                bearing: -44
             },
             onChapterEnter: [
                 // {
